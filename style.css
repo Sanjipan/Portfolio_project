@@ -372,6 +372,17 @@ img {
     left: -.10rem;
     z-index: 10;
 }
+
+.home__social{
+    height: max-content;
+    position: absolute;
+    left: -3rem;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+    display: grid;
+    row-gap: 1rem;
+}
 /* Animate scroll icon */
 
 
