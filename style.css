@@ -334,8 +334,8 @@ img {
 }
 
 .home__img{
-    /*position: relative;
-    z-index: 10;*/
+    position: relative;
+    z-index: 10;
 }
 
 .home__shadow{
@@ -369,8 +369,19 @@ img {
 
 .home__perfil .geometric-box{
     top: 2.5rem;
-    left: -.7rem;
+    left: -.10rem;
     z-index: 10;
+}
+
+.home__social{
+    height: max-content;
+    position: absolute;
+    left: -3rem;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+    display: grid;
+    row-gap: 1rem;
 }
 /* Animate scroll icon */
 
