@@ -349,7 +349,7 @@ img {
     z-index: 5;
     transition: background-color .4s;
 }
-.home__arrow
+.home__arrow,
 .home__line{
     position: absolute;
     filter: invert(1);
@@ -369,7 +369,7 @@ img {
 
 .home__perfil .geometric-box{
     top: 2.5rem;
-    left: -.10rem;
+    left: -.7rem;
     z-index: 10;
 }
 
