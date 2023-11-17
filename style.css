@@ -432,7 +432,7 @@ img {
     font-size: 1rem;
     cursor: pointer;
     overflow: hidden;
-    transition: background-color .4s;
+    transition: background-color .4s;  /*timestamp 32:33*/
 }
 
 .home__scroll-box i{
