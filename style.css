@@ -578,7 +578,7 @@ img {
     background-color: var(--title-color);
     position: absolute;
     left: -1.75rem;
-    top: .5rem;
+    top: .6rem;
 }
 
 .about__list{
@@ -641,6 +641,22 @@ img {
     color: var(--black-color);
     position: relative;
     z-index: 5;
+}
+
+.services__box
+{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-color: var(--first-color);
+    right: -2px;
+    top: -2px;
+}
+
+.services__title
+{
+    font-size: var(--h2-font-size);
+    margin-bottom: 1.25rem;
 }
 /*=============== PROJECTS ===============*/
 .projects{
